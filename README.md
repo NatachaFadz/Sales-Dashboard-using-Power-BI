@@ -32,7 +32,7 @@ The dataset (`Sales Dataset.xlsx`) includes:
 
 ## 📷 Dashboard Snapshot
 
-![Power BI Dashboard](sales%20dataset%20dashboard.png)
+![sales dataset dashboard](https://github.com/user-attachments/assets/32692129-9e7e-412a-a88c-dac1de3b2133)
 
 ## 🔍 Key Insights
 
